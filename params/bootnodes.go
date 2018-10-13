@@ -17,11 +17,10 @@
 package params
 
 var MainnetBootnodes = []string{
-
+	"enode://c89cf05dcd64d793bf0b38de2f119512b9b9f9e022b9d4795457876bfc29bd6635c089b7091b8a113764f781d462ca87252524b9a50e09a581b51e29dda988d3@101.251.230.213:50303",
 }
 
 var TestnetBootnodes = []string{
-	"enode://41b30f28e40db2be8ae0d6520530f7c3b0f3623adf56af1538a15af3a9dcd43b226ac81952f02bd3bc59c46a74057a8a32004ba044c881c9d1739f38003b5928@192.144.172.158:60605",
 }
 
 var RinkebyBootnodes = []string{
